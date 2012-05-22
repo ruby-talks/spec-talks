@@ -7,6 +7,8 @@
 This gem using base gem [talks](https://github.com/ruby-talks/talks). You can use it if you want to hear when your specs (with rspec)
 start and when they end. Maybe I'll add here something more later :)
 
+Sponsored by Evil Martians <http://evilmartians.com>
+
 ## Why?
 
 This idea appears on reddotrubyconf just as is :) I just thought about slow specs in rails and decided that I want to hear when they end.
